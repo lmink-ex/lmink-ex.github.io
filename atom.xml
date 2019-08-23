@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://lmink-ex.github.io/"/>
-  <updated>2019-08-23T00:54:26.028Z</updated>
+  <updated>2019-08-23T01:04:03.200Z</updated>
   <id>https://lmink-ex.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://lmink-ex.github.io/2019/08/23/text/"/>
+    <id>https://lmink-ex.github.io/2019/08/23/text/</id>
+    <published>2019-08-23T01:04:03.199Z</published>
+    <updated>2019-08-23T01:04:03.200Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="分类1" scheme="https://lmink-ex.github.io/categories/%E5%88%86%E7%B1%BB1/"/>
+    
+      <category term="分类2" scheme="https://lmink-ex.github.io/categories/%E5%88%86%E7%B1%BB1/%E5%88%86%E7%B1%BB2/"/>
+    
+    
+      <category term="标签1" scheme="https://lmink-ex.github.io/tags/%E6%A0%87%E7%AD%BE1/"/>
+    
+      <category term="标签2" scheme="https://lmink-ex.github.io/tags/%E6%A0%87%E7%AD%BE2/"/>
+    
+  </entry>
   
   <entry>
     <title></title>
